@@ -22,4 +22,3 @@ num = 123
 string = "123"
 array = [1,2,34,1]
 tuple_my = (1,2,3)
-
