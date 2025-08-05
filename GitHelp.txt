@@ -30,3 +30,16 @@ git commit -m "Commit name"
 пишите название вашей ветки, оно отображается в вашем терминале в скобке (master), (main) или (что-то другое):
 
 git push origin master/main
+
+5) Создание ветки
+
+git branch branch_name
+
+6) Просмотр веток
+
+git branch
+
+
+7) Создать ветку и сразу перейти на нее
+
+git checkout -b branch_name
