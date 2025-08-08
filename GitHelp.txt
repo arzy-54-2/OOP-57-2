@@ -46,7 +46,9 @@ git branch
 
 git checkout -b branch_name
 
+8) Слияние веток
 
+git merge branch_name
 
 
 ===========
