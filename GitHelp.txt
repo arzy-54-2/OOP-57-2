@@ -7,8 +7,7 @@ git config --global user.email "your-email@example.com"
 
 git init
 
-2) Это кома\\fewfverdfvewfc
-fewfcvew3rgfvw3eбудет вставить вашу ссылку на ваш репозиторий:
+2) Это комада будет вставить вашу ссылку на ваш репозиторий:
 
 git remote add origin Link
 

@@ -123,13 +123,13 @@ class A:
 
 class B(A):
     def action(self):
-        supedqdqwdr().action()
+        super().action()
         return print('B')
 
 
 class C(A):
     def action(self):
-        supeeq2edq2wdqwdr().action()
+        super().action()
         return print('C')
 
 class D(B, C):
