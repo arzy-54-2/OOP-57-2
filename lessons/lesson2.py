@@ -24,8 +24,8 @@ class HeroMage(Hero):
         super().__init__(name, lvl, hp)
         self.mp = mp
 
-    def action(self):
-        return print('base action')
+    # def action(self):
+    #     return print('base action')
 
     def cast_spell(self):
         if self.mp == 0:
