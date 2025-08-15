@@ -52,3 +52,19 @@ git merge branch_name
 
 
 ===========
+
+
+ls
+ls -a
+cd путь пишется
+mkdir name_dir
+touch name_file
+
+source .venv/bin/activate
+
+.venv\Scripts\activate
+
+
+py
+python        -m venv name_venv
+python3

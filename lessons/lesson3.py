@@ -144,3 +144,7 @@ d.action()
 
 
 # ===========
+
+from lesson1 import Hero
+
+test = Hero("Kirito", 100, 100)
